@@ -1,10 +1,13 @@
 # 🚀 Curso de Desenvolvimento Full-Stack
+
 Um cronograma completo e estruturado para guiá-lo do absoluto zero até se tornar um desenvolvedor full-stack profissional qualificado.
 
 ---
 
 # 📋 Sobre o Curso
+
 ## 🎯 Metodologia de Aprendizado
+
 - Explicações Simples e Diretas: Conceitos complexos explicados de forma clara
 - Exercícios Práticos e Progressivos: Do básico ao avançado para fixar conhecimento
 - Projetos para Fixação: Pequenos projetos ao final de cada módulo
@@ -14,36 +17,45 @@ Um cronograma completo e estruturado para guiá-lo do absoluto zero até se torn
 ---
 
 ## 🎯 Objetivo Final
+
 - Tornar-se um Desenvolvedor Full-Stack dominando a stack MERN + TypeScript:
 - Front-end: HTML5, CSS3, JavaScript, TypeScript, React, Next.js
 - Back-end: Node.js, Express.js, MongoDB
 - Ferramentas: Git, GitHub, Deploy, DevOps básico
 
 # 📊 Estrutura do Curso
+
 ## 🏗️ FASE 1: FUNDAMENTOS SÓLIDOS
+
 - Módulo 1: Lógica de Programação & Algoritmos (JavaScript Puro)
 - Módulo 2: Estruturação Web com HTML5
 - Módulo 3: Estilização e Layout com CSS3
 
 ## 💻 FASE 2: INTERATIVIDADE E LÓGICA AVANÇADA
+
 - Módulo 4: JavaScript para Web (DOM Manipulation)
 - Módulo 5: JavaScript Moderno (ES6+) e TypeScript Básico
 
 ## ⚙️ FASE 3: INTRODUÇÃO AO BACK-END
+
 - Módulo 6: Server-Side com Node.js e Express.js
 - Módulo 7: Banco de Dados com MongoDB
 
 ## ⚛️ FASE 4: O ECOSSISTEMA REACT
+
 - Módulo 8: React.js Fundamentos
 - Módulo 9: React.js Avançado & Next.js
 
 ## 🔧 FASE 5: TÓPICOS AVANÇADOS FULL-STACK
+
 - Módulo 10: API REST Completa & Autenticação
 - Módulo 11: Deploy, DevOps & Segurança
 
 ## 🎓 FASE 6: PORTFÓLIO E CARREIRA
+
 - Módulo 12: Projeto Final, Portfolio e Preparação para Entrevistas
 
+````bash
 📅 Cronograma Detalhado
 📘 Módulo 1 – Lógica de Programação & Algoritmos
 🎯 Objetivo: Construir a base da programação com JavaScript puro
@@ -134,3 +146,4 @@ curso-fullstack/
 └── 📂 projetos-finais/
     ├── 📂 projeto-blog/
     └── 📂 projeto-fullstack/
+````
