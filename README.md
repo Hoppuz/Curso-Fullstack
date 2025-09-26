@@ -117,7 +117,11 @@ Um cronograma completo e estruturado para guiá-lo do absoluto zero até se torn
 📚 Tópicos: Portfolio GitHub, entrevistas, LinkedIn
 💡 Projeto: Aplicação Full-Stack completa
 
-📁 Estrutura de Pastas Recomendada
+📁 Estrutura de Pastas Recomendada 
+````
+
+---
+
 ```bash
 curso-fullstack/
 │
